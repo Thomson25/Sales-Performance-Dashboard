@@ -21,8 +21,6 @@ This Power BI dashboard analyzes:
 - Geographic sales analysis
 - Product profitability tracking
 
-## Dashboard Preview
-![Dashboard](Screenshots/dashboard.png)
 
 ## Key Insights
 - Segment contributes highest sales.
